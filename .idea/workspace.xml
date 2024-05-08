@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf242f3f-c50a-402c-aace-66673f21672e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/donusturme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel1.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel2.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel3.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel4.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel5.ui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ilhancim&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ilhancim/MetinAnalizUygulamasi.git&quot;,
+    &quot;accountId&quot;: &quot;5b4b8312-1d85-4978-af4b-e15a88582805&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2g90OSibmsDEPDi4tMX7aJzxSjK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.convert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.donusturme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.panel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.panel2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kilic/OneDrive/Belgeler/GitHub/MetinAnalizUygulamasi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kilic\OneDrive\Belgeler\GitHub\MetinAnalizUygulamasi" />
+      <recent name="C:\Users\kilic\OneDrive\Belgeler\GitHub\MetinAnalizUygulamasi\dene" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf242f3f-c50a-402c-aace-66673f21672e" name="Changes" comment="" />
+      <created>1715094453357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715094453357</updated>
+      <workItem from="1715094454462" duration="1525000" />
+      <workItem from="1715097509089" duration="1534000" />
+      <workItem from="1715099488972" duration="103000" />
+      <workItem from="1715099692651" duration="14000" />
+      <workItem from="1715099856681" duration="2058000" />
+      <workItem from="1715103664230" duration="3700000" />
+      <workItem from="1715109768334" duration="31000" />
+      <workItem from="1715109883047" duration="155000" />
+      <workItem from="1715160300644" duration="4889000" />
+      <workItem from="1715165233621" duration="7000" />
+      <workItem from="1715181717922" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MetinAnalizUygulamasi$main.coverage" NAME="main Coverage Results" MODIFIED="1715181722504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetinAnalizUygulamasi$convert.coverage" NAME="convert Coverage Results" MODIFIED="1715101432816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetinAnalizUygulamasi$panel2.coverage" NAME="panel2 Coverage Results" MODIFIED="1715103692351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetinAnalizUygulamasi$donusturme.coverage" NAME="donusturme Coverage Results" MODIFIED="1715164235280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetinAnalizUygulamasi$panel.coverage" NAME="panel Coverage Results" MODIFIED="1715103690077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
